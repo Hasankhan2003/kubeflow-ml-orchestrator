@@ -1,0 +1,26 @@
+# Environments
+kubeflow_env/
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data and Models (Optional: un-comment if you don't want to push sample data)
+# *.csv
+# *.pkl
+# *.joblib
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Kubeflow/Minikube specific temp files
+*.yaml
+!ultimate_master_pipeline.yaml
