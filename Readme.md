@@ -1,4 +1,4 @@
-# Scalable MLOps Pipeline using Kubeflow
+# Kubeflow ML Orchestrator
 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![Kubeflow](https://img.shields.io/badge/Kubeflow-Pipelines_v2-blue)](https://www.kubeflow.org/)
